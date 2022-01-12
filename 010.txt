@@ -1,0 +1,8 @@
+
+Product name: Shoes
+product id: 010
+cost price of product: 400
+selling price of product: 500
+quantity: 12
+ total cost: 4800
+sell: 6000

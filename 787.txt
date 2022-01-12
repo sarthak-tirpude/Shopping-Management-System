@@ -1,0 +1,5 @@
+
+number of working employees: 2
+employee salary: 7500
+employee name :chris
+employee id: 787

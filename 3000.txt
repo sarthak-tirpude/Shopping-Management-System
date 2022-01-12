@@ -1,0 +1,5 @@
+
+number of working employees: 0
+employee salary: 0
+employee name :tonyy
+employee id: : 3000

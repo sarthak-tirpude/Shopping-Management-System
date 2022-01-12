@@ -1,0 +1,8 @@
+
+product name: Shoes
+product id: 09
+cost price of product: 1000
+selling price of product: 2000
+quantity: 10
+ total cost: 10000
+sell: 20000

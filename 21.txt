@@ -1,0 +1,8 @@
+
+Product name: we
+product id: 21
+cost price of product: 1222
+selling price of product: 2222
+quantity: 1
+ total cost: 1222
+sell: 2222

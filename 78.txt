@@ -1,0 +1,5 @@
+
+number of working employees: 56000
+employee salary: 1255
+employee name :asd
+employee id: 78
