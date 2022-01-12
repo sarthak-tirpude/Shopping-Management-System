@@ -1,0 +1,8 @@
+
+product name: demoo
+product id: 852
+cost price of product: 560
+selling price of product: 1200
+quantity: 5
+ total cost: 2800
+sell: 6000

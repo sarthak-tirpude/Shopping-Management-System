@@ -1,0 +1,8 @@
+
+product name: demo
+product id: 12
+cost price of product: 1560
+selling price of product: 2500
+quantity: 2
+ total cost: 3120
+sell: 5000
