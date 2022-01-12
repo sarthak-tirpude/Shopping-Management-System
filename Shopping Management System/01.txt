@@ -1,9 +1,0 @@
-
-product name: EE
-product id: 01
-percost ofproduct: 400
-persell of product: 1000
-quantity: 5
- total cost: 2000
-sell: 50002500
-sell: 5000
